@@ -1,4 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/bklamer/bklamer.r-universe.dev
 	branch = HEAD
+[submodule "rankdifferencetest"]
+	path = rankdifferencetest
+	url = https://bitbucket.org/bklamer/rankdifferencetest
+	branch = master
