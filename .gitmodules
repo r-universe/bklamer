@@ -2,7 +2,9 @@
 	path = .registry
 	url = https://github.com/bklamer/bklamer.r-universe.dev
 	branch = HEAD
+[submodule "depower"]
+	path = depower
+	url = https://bitbucket.org/bklamer/depower
 [submodule "rankdifferencetest"]
 	path = rankdifferencetest
 	url = https://bitbucket.org/bklamer/rankdifferencetest
-	branch = master
