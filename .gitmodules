@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/bklamer/bklamer.r-universe.dev
 	branch = HEAD
+[submodule "bkbase"]
+	path = bkbase
+	url = https://bitbucket.org/bklamer/bkbase
 [submodule "depower"]
 	path = depower
 	url = https://bitbucket.org/bklamer/depower
