@@ -5,9 +5,15 @@
 [submodule "bkbase"]
 	path = bkbase
 	url = https://bitbucket.org/bklamer/bkbase
+[submodule "bkcheck"]
+	path = bkcheck
+	url = https://bitbucket.org/bklamer/bkcheck
 [submodule "depower"]
 	path = depower
 	url = https://bitbucket.org/bklamer/depower
 [submodule "rankdifferencetest"]
 	path = rankdifferencetest
 	url = https://bitbucket.org/bklamer/rankdifferencetest
+[submodule "vclust"]
+	path = vclust
+	url = https://bitbucket.org/bklamer/vclust
