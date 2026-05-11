@@ -8,6 +8,9 @@
 [submodule "bkcheck"]
 	path = bkcheck
 	url = https://bitbucket.org/bklamer/bkcheck
+[submodule "bkmodel"]
+	path = bkmodel
+	url = https://bitbucket.org/bklamer/bkmodel
 [submodule "depower"]
 	path = depower
 	url = https://bitbucket.org/bklamer/depower
